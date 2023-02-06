@@ -17,8 +17,8 @@
 
 <p align="center">
 반갑습니다👐<br>
-저는 성일정보고등학교 소프트웨어개발과 3학년에 재학 중인 김정빈입니다.<br>
-프론트엔드를 공부하고 있습니다 !<br>
+저는 (주)아이티언에 재직 중인 김정빈입니다.<br>
+프론트엔드와 NGINX를 공부하고 있습니다 !<br>
 </p>
 
 <br>
@@ -44,6 +44,7 @@
 <p align="center" display="inline-block">
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=nginx&logoColor=white">
 </p><br>
 
 
