@@ -51,5 +51,6 @@ Studying Full-Stack Development & NGINX<br>
 <br>
 
 <div align=center>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevBinx&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=DevBinx&show_icons=true">
 
-![DevBinx's github stats](https://github-readme-stats.vercel.app/api?username=DevBinx&show_icons=true)
