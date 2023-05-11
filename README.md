@@ -1,3 +1,4 @@
+<div align=center>
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=300&section=header&text=welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=DevBinx's%20GitHub%20Profile&descAlignY=51&descAlign=62)
 
 <br>
@@ -27,7 +28,6 @@ Studying Full-Stack Development & NGINX<br>
     <Strong>⚒️Tech Stack⚒️</Strong><br>
     💡Skill
 </p>
-
 <p align="center" display="inline-block">
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <!-- Java Logo -->
     <img src="https://img.shields.io/badge/OracleSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"> <!-- OracleSQL Logo -->
@@ -53,4 +53,5 @@ Studying Full-Stack Development & NGINX<br>
 <div align=center>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevBinx&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=DevBinx&show_icons=true">
-
+</div>
+</div>
