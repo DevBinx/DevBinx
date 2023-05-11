@@ -26,28 +26,29 @@ Studying Full-Stack Development & NGINX<br>
 
 <p align="center">
     <Strong>⚒️Tech Stack⚒️</Strong><br>
-    💡Skill
+    <p>💡Front-End</p><br>
 </p>
 <p align="center" display="inline-block">
-  <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <!-- Java Logo -->
-    <img src="https://img.shields.io/badge/OracleSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"> <!-- OracleSQL Logo -->
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <!-- MySQL Logo -->
     <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <!-- HTML5 Logo -->
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <!-- JavaScript Logo -->
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <!-- CSS StyleSheet Logo -->
-</p><br>
-
-<p align="center">
-    <Strong>✒️Study-ing✒️</Strong><br>
 </p>
-
-<p align="center" display="inline-block">
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <!-- Spring StyleSheet Logo -->
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <!-- Python Logo -->
+<br>
+<p>💡Back-End</p><br>
+<p align="center">
+      <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <!-- Java Logo -->
+    <img src="https://img.shields.io/badge/OracleSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"> <!-- OracleSQL Logo -->
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <!-- MySQL Logo -->
     <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white"> <!-- NGINX Logo -->
-</p><br>
-
-
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <!-- Spring Logo -->
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <!-- Python Logo -->
+    </p>
+    <br>
+    <p>💡DB</p><br>
+<p align="center">
+    <img src="https://img.shields.io/badge/OracleSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"> <!-- OracleSQL Logo -->
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <!-- MySQL Logo -->
+    </p>
 <br>
 
 <div align=center>
