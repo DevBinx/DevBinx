@@ -1,8 +1,8 @@
-<div align=center>
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=300&section=header&text=welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=DevBinx's%20GitHub%20Profile&descAlignY=51&descAlign=62)
 
 <br>
-
+<div align=center>
 <p align="center">
     <Strong>☁️SNS list☁️</Strong><br><br>
     <div id="logo" align="center">
