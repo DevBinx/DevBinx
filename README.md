@@ -16,9 +16,9 @@
 <br>
 
 <p align="center">
-반갑습니다👐<br>
-저는 (주)아이티언에 재직 중인 김정빈입니다.<br>
-프론트엔드와 NGINX를 공부하고 있습니다 !<br>
+Hello 👐<br>
+My name is Jungbin Kim.<br>
+Studying Full-Stack Development & NGINX<br>
 </p>
 
 <br>
@@ -29,13 +29,12 @@
 </p>
 
 <p align="center" display="inline-block">
-  <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> 
-    <img src="https://img.shields.io/badge/OracleSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-    <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img src="https://img.shields.io/badge/Kotlin-4479A1?style=for-the-badge&logo=Kotlin&logoColor=white">
+  <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <!-- Java Logo -->
+    <img src="https://img.shields.io/badge/OracleSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"> <!-- OracleSQL Logo -->
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <!-- MySQL Logo -->
+    <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <!-- HTML5 Logo -->
+    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <!-- JavaScript Logo -->
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <!-- CSS StyleSheet Logo -->
 </p><br>
 
 <p align="center">
@@ -43,9 +42,9 @@
 </p>
 
 <p align="center" display="inline-block">
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white">
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <!-- Spring StyleSheet Logo -->
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <!-- Python Logo -->
+    <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white"> <!-- NGINX Logo -->
 </p><br>
 
 
@@ -53,4 +52,4 @@
 
 <div align=center>
 
-![1Kimjungbin's github stats](https://github-readme-stats.vercel.app/api?username=1Kimjungbin&show_icons=true)
+![DevBinx's github stats](https://github-readme-stats.vercel.app/api?username=DevBinx&show_icons=true)
