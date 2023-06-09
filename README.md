@@ -9,15 +9,16 @@
 
 💻 **Study-ing**
 - Frontend Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <br>
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
 ![JQuery](https://img.shields.io/badge/-Jquery-000000?style=flat&logo=Jquery)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
 - Backend Development ✍️ <br>
 ![NGINX](https://img.shields.io/badge/-NGINX-000000?style=flat&logo=NGINX)
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=Docker)
 ![Spring](https://img.shields.io/badge/-Spring-000000?style=flat&logo=Spring)
+![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
 <hr>
 <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
 <img align="right" width=420 height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbinx&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true&layout=compact" />
