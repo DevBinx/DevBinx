@@ -1,58 +1,44 @@
+<img align="right" src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif" alt="Coder GIF" width="420" height="330">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=300&section=header&text=welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=DevBinx's%20GitHub%20Profile&descAlignY=51&descAlign=62)
 
-<br>
-<div align=center>
-<p align="center">
-    <Strong>☁️SNS list☁️</Strong><br><br>
-    <div id="logo" align="center">
-    <a href="https://www.instagram.com/kxx_jb/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"></a>
-        <a href="https://far-lightyear-a2b.notion.site/1Kimjungbin-s-Notion-6ba5870506d04cc7ab8c046ba7087f8a" target="_blank"><img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat-square&logo=Notion&logoColor=black"></a>
-    <br>
-   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F1kimjungbin%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-<br><br>
-<Strong align="center">📧Contact📧</Strong><br>1Kimjungbin@gmail.com<br>
-</p>
-</div>
-<br>
 
-<p align="center">
-Hello 👐<br>
-My name is Jungbin Kim.<br>
-Studying Full-Stack Development & NGINX<br>
-</p>
+### Hello, I'm DevBinx 👋
+[![Gmail Badge](https://img.shields.io/badge/-1kimjungbin@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:1kimjungbin@gmail.com)](mailto:1kimjungbin@gmail.com) 
 
-<br>
+⚡ I'm studying full-stack development 🤓
 
-<p align="center">
-    <Strong>⚒️Tech Stack⚒️</Strong><br>
-    <p>💡Front-End</p><br>
-</p>
-<p align="center" display="inline-block">
-    <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <!-- HTML5 Logo -->
-    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <!-- JavaScript Logo -->
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <!-- CSS StyleSheet Logo -->
-</p>
-<br>
-<p>💡Back-End</p><br>
-<p align="center">
-      <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <!-- Java Logo -->
-    <img src="https://img.shields.io/badge/OracleSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"> <!-- OracleSQL Logo -->
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <!-- MySQL Logo -->
-    <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white"> <!-- NGINX Logo -->
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <!-- Spring Logo -->
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <!-- Python Logo -->
-    </p>
-    <br>
-    <p>💡DB</p><br>
-<p align="center">
-    <img src="https://img.shields.io/badge/OracleSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"> <!-- OracleSQL Logo -->
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <!-- MySQL Logo -->
-    </p>
-<br>
+💻 **Study-ing**
+- Frontend Developemt <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <br>
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
+![JQuery](https://img.shields.io/badge/-Jquery-000000?style=flat&logo=Jquery)
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js)
+- Backend Development ✍️ <br>
+![NGINX](https://img.shields.io/badge/-NGINX-000000?style=flat&logo=NGINX)
+![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=Docker)
+![Spring](https://img.shields.io/badge/-Spring-000000?style=flat&logo=Spring)
+<hr>
+<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+<img align="right" width=420 height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbinx&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true&layout=compact" />
+</a>
+    
+🛠 **Tech Stack**
 
-<div align=center>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevBinx&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=DevBinx&show_icons=true">
-</div>
-</div>
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
+![JQuery](https://img.shields.io/badge/-Jquery-000000?style=flat&logo=Jquery)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js)
+
+![NGINX](https://img.shields.io/badge/-NGINX-000000?style=flat&logo=NGINX)
+![Apache](https://img.shields.io/badge/-Apache-000000?style=flat&logo=apache&logoColor=D22128)
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
+![OracleSQL](https://img.shields.io/badge/-OracleSQL-000000?style=flat&logo=Oracle)
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
+
+![MariaDB](https://img.shields.io/badge/-MariaDB-000000?style=flat&logo=MariaDB)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
+![VirtualBox](https://img.shields.io/badge/-VirtualBox-000000?style=flat&logo=VirtualBox)
+![VSCode](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visualstudio)
