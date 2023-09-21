@@ -33,7 +33,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js)
 
 ![NGINX](https://img.shields.io/badge/-NGINX-000000?style=flat&logo=NGINX)
-![Apache](https://img.shields.io/badge/-Apache-000000?style=flat&logo=apache&logoColor=D22128)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000000?style=flat&logo=Kubernetes)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
 ![OracleSQL](https://img.shields.io/badge/-OracleSQL-000000?style=flat&logo=Oracle)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
@@ -43,3 +43,5 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
 ![VirtualBox](https://img.shields.io/badge/-VirtualBox-000000?style=flat&logo=VirtualBox)
 ![VSCode](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visualstudio)
+
+
