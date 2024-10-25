@@ -1,7 +1,7 @@
 ## Hello, I'm DevBinx.
 
 <div>
-  Hello, I am Jungbin Kim (aka. DevBinx), a 21 years old DevOps engineer living in Korea. <br>
+  Hello, I am Jungbin Kim (aka. DevBinx), a 21 years old DevOps Engineer living in Korea. <br>
 	<br>
 	I have been responsible for large-scale container orchestration using Kubernetes,<br>
 	and implementing L4/L7 application routing through NGINX in many projects.<br>
