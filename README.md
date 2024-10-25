@@ -1,4 +1,3 @@
-
 ## Hello, I'm DevBinx.
 
 <div>
