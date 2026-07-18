@@ -10,7 +10,6 @@
 </div>
 
 ## Contact
-- jbkim@itian.co.kr
 - devbinx.dev@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/dev0pskim/)
 
